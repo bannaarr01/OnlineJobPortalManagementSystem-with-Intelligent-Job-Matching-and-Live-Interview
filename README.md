@@ -3,7 +3,7 @@
 
 ## Description
 
-It's a web application developed using Laravel framework for Job Seekers to seek for Job and Employers to post job openings. It will also allow job seekers to share job link with their friend or family, save jobs, upload resume and cover letter, apply for multiple jobs and so on
+It's a web application developed using Laravel PHP Web framework for Job Seekers to seek for Job and Employers to post job openings. It will also allow job seekers to share job link with their friend or family, save jobs, upload resume and cover letter, apply for multiple jobs and so on
 
 ## Intriguing Features
 * Recommendation System (Both Collaborative filtering and Content-Based Recommender). Collaborative filtering using implict python package and model with set of implicit feedback such as users job view, favorited, applied, comparing similar users with their job interactions, and therefore offering recommendation for the user in session. The Content-Based Recommender uses the Scikit-Learn python library to measure similarities between listed jobs and make recommendations to users in the session based on the job viewed.

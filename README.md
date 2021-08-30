@@ -1,3 +1,5 @@
+# Project Under Construction 🚧
+
 # Online Job Portal Management System with Intelligent Job Matching and Live Interview
 #### This Project is currently Under Construction and will be available soon
 
@@ -10,7 +12,7 @@ It's a web application developed using Laravel PHP Web framework for Job Seekers
 * Scheduler to dump database within specified timeframe to be used by the recommender system using python and laravel
 * Scheduler to ReBuild Model within specific timeframe to be used by the collaborative filtering, since we are using live dataSet
 * Event Listener and Mailing for Newsletter Subscriber
-* Modify Profile both job seeker sand employers
+* Modify Profile both job seekers and employers
 * Rating System
 * Blog System
 * All pages Animated Nicely

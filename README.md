@@ -4,7 +4,7 @@
 #### This Project is currently Under Construction and will be available soon
 
 ## Description
-<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100"></a>  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="30" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100"></a><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="30" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 It's web application developed using **[Laravel](https://laravel.com)**, a PHP Web framework and VueJs. The system is designed for Job Seekers to seek for Job and Employers to post job openings. It will also allow job seekers to share job link with their friend or family, save jobs, upload resume and cover letter, apply for multiple jobs and so on.
 

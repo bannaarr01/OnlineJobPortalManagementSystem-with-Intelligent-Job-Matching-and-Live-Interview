@@ -1,7 +1,6 @@
-# Project Under Construction 🚧
+# App Demo **[Click to watch](https://youtu.be/t54QM77p8BU)**
 
 # Online Job Portal Management System with Intelligent Job Matching and Live Interview
-#### This Project is currently Under Construction and will be available soon
 
 ## Description
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100"></a><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="30" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
@@ -11,7 +10,7 @@ It's web application developed using **[Laravel](https://laravel.com)**, a PHP W
 
 
 ## Intriguing Features
-* Recommendation System (Both Collaborative filtering and Content-Based Recommender). The Collaborative filtering uses **[implicit](https://github.com/benfred/implicit)** Library, a Fast Python Collaborative Filtering for Implicit Datasets for matrix factorization. The Content-Based Recommender uses cosine similarities to measure similarities between listed jobs and make recommendations to users based on the job viewed.
+* Recommendation System (Both Collaborative filtering and Content-Based Recommender). The Collaborative filtering uses **[implicit](https://github.com/benfred/implicit)** Library, a Fast Python Collaborative Filtering package for Implicit Datasets n matrix factorization. The Content-Based Recommender uses cosine similarities to measure similarities between listed jobs and make recommendations to users based on the job viewed.
 * Scheduler to dump database within specified timeframe to be used by the recommender system using python and laravel
 * Scheduler to ReBuild Model within specific timeframe to be used by the collaborative filtering, since new data will keep adding.
 * Event Listeners and newsletter emails for Newsletter Subscriber
@@ -19,11 +18,10 @@ It's web application developed using **[Laravel](https://laravel.com)**, a PHP W
 * Rating System
 * Blog System
 * All pages Animated Nicely
-* CRUD operation by admin
+* System Managed by admin
 * Facebook and Google Signup and Sign-in
-* Email Verification after signup
-* Middleware 
 
 ## App Demo
-Coming Soon. Watch Out.....
+
+**[Click to watch](https://youtu.be/t54QM77p8BU)**
 

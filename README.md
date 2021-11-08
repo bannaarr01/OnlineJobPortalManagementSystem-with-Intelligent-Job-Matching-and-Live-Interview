@@ -13,6 +13,7 @@ It's web application developed using **[Laravel](https://laravel.com)**, a PHP W
 * Recommendation System (Both Collaborative filtering and Content-Based Recommender). The Collaborative filtering uses **[implicit](https://github.com/benfred/implicit)** Library, a Fast Python Collaborative Filtering package for Implicit Datasets n matrix factorization. The Content-Based Recommender uses cosine similarities to measure similarities between listed jobs and make recommendations to users based on the job viewed.
 * Scheduler to dump database within specified timeframe to be used by the recommender system using python and laravel
 * Scheduler to ReBuild Model within specific timeframe to be used by the collaborative filtering, since new data will keep adding.
+* Schedule and Manage Interview using ZoomAPI
 * Event Listeners and newsletter emails for Newsletter Subscriber
 * Profile update for both job seekers and employers
 * Rating System
